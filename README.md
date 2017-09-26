@@ -2,6 +2,10 @@
 
 ------
 
+## Requirements
+- Django==1.10
+
+
 ## Install
 In the terminal
 ```
